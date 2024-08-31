@@ -20,7 +20,7 @@ Características
 
 1. Clonar el repositorio:
 ```sh
-Copygit clone https://github.com/mariominondo/laravel-login-system.git
+git clone https://github.com/mariominondo/laravel-login-system.git
 ```
 
 2. Navegar al directorio del proyecto:
